@@ -29,4 +29,4 @@ Using the YoloV5 computer vision model, training takes place on a labeled sample
 
 ## Questions? Comments?
 
-[Link]Telegramm
+[Link](Telegram)
